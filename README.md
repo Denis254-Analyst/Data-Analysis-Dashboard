@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-This project involves analyzing retail transaction data to design an interactive Excel Sales Dashboard that provides clear visibility into revenue performance, customer behavior, product trends, and regional contributions.
+# Sales Performance Dashboard
+## Project Overview
+This project presents an interactive Sales Performance Dashboard built in Microsoft Excel to analyze sales performance across products, categories, regions, customers, demographics, and time.
+
+## Dataset Used
